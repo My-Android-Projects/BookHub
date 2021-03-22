@@ -7,5 +7,6 @@
     <string name="navigation_drawer">Navigation Drawer</string>
     <string name="open_drawer"> Open Drawer</string>
     <string name="close_drawer"> Close Drawer</string>
+    <string name="about_the_book_details">about the book details</string>
 
 </resources>
